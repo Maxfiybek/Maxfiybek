@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mirjamol Qodiraliyev
 
-🚀 **Android & Compose Multiplatform Developer**  
+🚀 **Native Android & Compose Multiplatform Developer**  
 📍 Uzbekistan
 
 I’m currently working on **Compose Multiplatform projects**, building shared UI and logic while respecting native platform capabilities. I enjoy combining **modern Android development** with **native iOS SDKs** to create clean, scalable, and high-performance applications.
