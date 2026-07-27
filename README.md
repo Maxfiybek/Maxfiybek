@@ -18,7 +18,11 @@ I’m currently working on **Compose Multiplatform projects**, building shared U
 ## 📚 My journey
 - 🏁 Started learning **Android development in November 2023**  
 - 🧠 Focused on modern architecture, clean code, and best practices  
-- 🔁 Actively improving skills in cross-platform and native development
+- 🔁 Actively improving skills in Multi-platform and native development
+- ## 🚀 Projects I’ve Contributed To
+- **[A-Pay](https://a-pay.uz/)** — Digital payment platform
+- **Smart Supply** — Supply and inventory management application  
+  [Android](https://play.google.com/store/apps/details?id=uz.uzkassa.smartpos.supply.android&hl=en) · [iOS](https://apps.apple.com/uz/app/smart-supply/id6478151371)
 
 ---
 
@@ -26,7 +30,7 @@ I’m currently working on **Compose Multiplatform projects**, building shared U
 - Jetpack Compose & Compose Multiplatform  
 - Kotlin Coroutines & Flow  
 - Android & iOS native SDKs  
-- Clean Architecture & SOLID principles  
+- Clean Architecture & SOLID principles
 
 ---
 
